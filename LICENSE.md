@@ -1,5 +1,3 @@
-# [Simplified/2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)
-
 _Copyright © `2011`, `GAMADU.COM`_
 _All rights reserved._
 
