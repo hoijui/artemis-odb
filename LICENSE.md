@@ -1,7 +1,7 @@
 # [Simplified/2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)
 
-_Copyright 2011, GAMADU.COM_
-_All rights reserved._
+Copyright 2011, GAMADU.COM
+All rights reserved.
 
 Redistribution and use in source and binary forms, with or without
 modification, are permitted provided that the following conditions are met:
