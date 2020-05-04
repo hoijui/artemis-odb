@@ -1,4 +1,6 @@
-_Copyright © `<YEAR>`, `<OWNER>`_
+# [Simplified/2-Clause BSD License](https://opensource.org/licenses/BSD-2-Clause)
+
+_Copyright `2011`, `GAMADU.COM`_
 _All rights reserved._
 
 Redistribution and use in source and binary forms, with or without
@@ -20,8 +22,4 @@ LOSS OF USE, DATA, OR PROFITS; OR BUSINESS INTERRUPTION) HOWEVER CAUSED AND
 ON ANY THEORY OF LIABILITY, WHETHER IN CONTRACT, STRICT LIABILITY, OR TORT
 (INCLUDING NEGLIGENCE OR OTHERWISE) ARISING IN ANY WAY OUT OF THE USE OF THIS
 SOFTWARE, EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
-
-The views and conclusions contained in the software and documentation are those
-of the authors and should not be interpreted as representing official policies,
-either expressed or implied, of the FreeBSD Project.
 
